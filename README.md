@@ -1,2 +1,2 @@
 # Keeper-App
- Note-taking app
+ Introducing Keeper App, a React-based note-taking tool that is easy to use and straightforward.
